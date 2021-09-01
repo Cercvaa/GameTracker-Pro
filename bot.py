@@ -21,4 +21,4 @@ for cog in filter(lambda x: x.endswith(".py"), listdir("Cogs/")):
 
 
 
-client.run("ODU5MDM5NDkyMzI0NTg5NjA4.YNm43w.KGEVuhf3UE2OW7fWdC8cjAyDNcE")
+client.run(TOKEN)
